@@ -1,0 +1,13 @@
+p{
+	background-color: #8bcdcd;
+	color:#cee397;
+	
+}
+h1{
+	color:blue;
+}
+
+h1,p{
+	text-align:center;
+
+}
